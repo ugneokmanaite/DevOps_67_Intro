@@ -1,8 +1,12 @@
 # Introduction to DevOps
 -[x] What is DevOps?
+
 -[x] Why DevOps?
+
 -[x] 3 Challenges of DevOps
+
 -[x] Benefits of DevOps
+
 
 ## What is DevOps?
 - Culture that bridges the gap between development and operation teams
