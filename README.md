@@ -45,6 +45,11 @@
 - It used to take too long to release a product. 
 - They were all dependant on each other
 - Limited collaboration between teams
+- DevOps took away this dependability & faster release cycles which saves money - benefits profitability 
+
+## Infrastructure Revolution 
+![image](infrastructure_revolution.png)
+
 
 ![image](Vagrant.png)
 
