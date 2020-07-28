@@ -15,6 +15,8 @@
 - combines software development (Dev) and IT operations(Ops) participating together in entire service life cycle 
 - Set of practices that automate the process 
 
+![image](DevOps.JPG)
+
 ## Why DevOps?
 - Shorter Development Cycles & faster innovation = created through joint development and operations efforts
 - Reduce Implementation failure, reflections and recovery time= DevOps promotes frequent code versions.Therefore, teams can use their time to reduce the number of implementation failures using agile programming principles that require collaboration and standard programming
@@ -38,7 +40,15 @@
 
 - https://dzone.com/articles/top-5-reasons-why-devops-is-important
 
+## IT before DevOps
+- DevOps creates microservices architecture where their code can be tested on their own
+- It used to take too long to release a product. 
+- They were all dependant on each other
+- Limited collaboration between teams
+
 ![image](Vagrant.png)
+
+
 
 
 
